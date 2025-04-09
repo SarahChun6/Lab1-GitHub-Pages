@@ -2,6 +2,8 @@
 
 Link to the [tech section](#tech-section).
 
+[Profile](profile_pic.jpg)
+
 Hi! I'm Sarah, an aspiring software developer with programming experience in C, C++, Python, HTML, CSS and Javascript. I transfered to UCSD from UCSC in Fall 2024. I am excited to learn more about web applications, cloud computing, distributed systems, and machine learning! ***Looking for summer-long or year-long internships in tech.***
 
 > “Live as if you were to die tomorrow. Learn as if you were to live forever.”
@@ -30,6 +32,7 @@ My favorite programming language is either C or Python.
    - CSE150A
    - CSE150B
    - COGS108
+
 *was going to replace or drop an AI course but ended up liking both*
 
 
