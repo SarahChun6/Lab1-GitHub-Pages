@@ -1,6 +1,6 @@
 ## Sarah's User Page
 
-Link to the [tech section](#tech-section).
+Link to the [tech section](#places-traveled-to).
 
 [Profile Picture](/profile_pic.jpg)
 
@@ -9,7 +9,7 @@ Hi! I'm Sarah, an aspiring software developer with programming experience in C, 
 > “Live as if you were to die tomorrow. Learn as if you were to live forever.”
 ― Mahatma Gandhi
 
-## Tech Section
+# Tech Section
 
 [My personal portfolio website](https://schun-portfolio.netlify.app/) from Winter 2025 CSE134B.
 
@@ -35,7 +35,7 @@ My favorite programming language is either C or Python.
 *was going to replace or drop an AI course but ended up liking both*
 
 
-Places traveled to   
+# Places traveled to   
 [x] Hong Kong  
 [ ] Singapore  
 [x] Beijing  
